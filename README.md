@@ -24,7 +24,7 @@
 git clone https://github.com/frisca30/mobivertod
 ```
 ```sh
-cd mobiverse
+cd mobivertod
 ```
 ```sh
 npm install axios
