@@ -1,5 +1,5 @@
 # Mobiverse Bot
-![image](https://github.com/andraz404/mobiverse/assets/169606426/7217cc57-33d9-4228-aa38-589959d92f1a)
+
 
 ## Features
 - Auto Mine
